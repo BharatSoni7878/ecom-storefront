@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "title": "Wireless Bluetooth Headphones",
+    "price": 3299,
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=400&h=400&q=80",
+    "description": "Premium over-ear headphones with active noise cancellation and 30-hour battery life.",
+    "stock": 25
+  },
+  {
+    "id": 2,
+    "title": "Classic Leather Wallet",
+    "price": 899,
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1627123424574-724758594e93?auto=format&fit=crop&w=400&h=400&q=80",
+    "description": "Handcrafted genuine leather bifold wallet with RFID blocking technology.",
+    "stock": 40
+  },
+  {
+    "id": 3,
+    "title": "Organic Cotton T-Shirt",
+    "price": 699,
+    "category": "Clothing",
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&h=400&q=80",
+    "description": "Soft, breathable organic cotton tee available in multiple colors.",
+    "stock": 100
+  },
+  {
+    "id": 4,
+    "title": "Stainless Steel Water Bottle",
+    "price": 549,
+    "category": "Home",
+    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?auto=format&fit=crop&w=400&h=400&q=80",
+    "description": "Insulated 1L bottle keeps drinks cold for 24 hours or hot for 12 hours.",
+    "stock": 60
+  },
+  {
+    "id": 5,
+    "title": "Smart Fitness Watch",
+    "price": 4999,
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=400&h=400&q=80",
+    "description": "Track heart rate, sleep, and workouts with GPS and water resistance.",
+    "stock": 15
+  },
+  {
+    "id": 6,
+    "title": "Running Sneakers",
+    "price": 2499,
+    "category": "Clothing",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=400&h=400&q=80",
+    "description": "Lightweight mesh upper with responsive cushioning for all-day comfort.",
+    "stock": 35
+  },
+  {
+    "id": 7,
+    "title": "Ceramic Coffee Mug Set",
+    "price": 799,
+    "category": "Home",
+    "image": "https://images.pexels.com/photos/50676/coffee-mugs-t-brown-drink-50676.jpeg",
+    "description": "Set of 4 artisan ceramic mugs, microwave and dishwasher safe.",
+    "stock": 50
+  },
+  {
+    "id": 8,
+    "title": "Polarized Sunglasses",
+    "price": 1299,
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&w=400&h=400&q=80",
+    "description": "UV400 protection with lightweight acetate frames and anti-glare lenses.",
+    "stock": 30
+  },
+  {
+    "id": 9,
+    "title": "Portable Bluetooth Speaker",
+    "price": 1999,
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?auto=format&fit=crop&w=400&h=400&q=80",
+    "description": "360° sound with 12-hour playtime and IPX7 waterproof rating.",
+    "stock": 45
+  },
+  {
+    "id": 10,
+    "title": "Linen Throw Blanket",
+    "price": 1499,
+    "category": "Home",
+    "image": "https://images.pexels.com/photos/27471038/pexels-photo-27471038.jpeg",
+    "description": "Breathable natural linen blanket perfect for cozy evenings.",
+    "stock": 20
+  },
+  {
+    "id": 11,
+    "title": "Denim Jacket",
+    "price": 2199,
+    "category": "Clothing",
+    "image": "https://images.pexels.com/photos/13662420/pexels-photo-13662420.jpeg",
+    "description": "Classic medium-wash denim jacket with vintage-inspired details.",
+    "stock": 28
+  },
+  {
+    "id": 12,
+    "title": "Leather Crossbody Bag",
+    "price": 2499,
+    "category": "Accessories",
+    "image": "https://images.pexels.com/photos/27204286/pexels-photo-27204286.jpeg",
+    "description": "Compact crossbody with adjustable strap and multiple interior pockets.",
+    "stock": 18
+  }
+]
